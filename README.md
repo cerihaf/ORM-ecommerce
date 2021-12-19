@@ -10,6 +10,10 @@ Connect to the database using Sequelize and enter schema and seed commands. This
 
 ![Screenshot of deployed project](/public/assets/images/orm-pic.png)
 
+## Link to Walkthrough Video
+
+https://drive.google.com/file/d/1K0bzf59sK8P1rkbLqAnrsXyjuWICjygb/view?usp=sharing
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
